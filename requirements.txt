@@ -1,0 +1,2 @@
+bqskit>=1.2.1
+bqskit-ft>=0.2.0
