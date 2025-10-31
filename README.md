@@ -1,1 +1,1 @@
-A quick intro do using bqskit to compile quantum circuits
+## A quick intro to using `bqskit` to compile quantum circuits
